@@ -2,6 +2,14 @@
     padding: 1rem;
 }
 
+.encabezado__titulo{
+    color:#390061;
+}
+
+.encabezado__avatar{
+    border-radius: 50%;
+}
 .contenido{
     padding: 1rem;
+    color:#390061;
 }
